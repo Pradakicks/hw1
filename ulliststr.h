@@ -130,6 +130,7 @@ class ULListStr {
   Item* head_;
   Item* tail_;
   size_t size_;
+  size_t numOfNodes;
 };
 
 #endif
